@@ -9,3 +9,6 @@ dom va vertual dom ni bitta asosiy farqi bu dom dan foydalanganimzda saytni bir 
 dom bizga butun bir saytni qaytadan tuzib beradi bu esa 1 2 sec vaqtni olishi va saytni sekin ishlashiga olib keladi
 vertual dom da esa unaqa emas yani saytni biron qismini uzgartirmoqchi bulsez vertual dom dan foydalanganizda siz uzgartirgan 
 joyinigina uzgartirib beradi bu esa saytni tezlashiga yordam beradi
+
+
+			
